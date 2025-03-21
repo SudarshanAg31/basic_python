@@ -9,4 +9,4 @@ print(s1.name)
 del s1
 print(s1.age,s1.name)
 #NOTE: if we use (del s1) so it delete whole s1 (object)
-#NOTE: if we use(del s1.name) so it delete name in s1 (object properties)
+#NOTE: if we use(del s1.name) so it delete name in s1 (object properties) 
