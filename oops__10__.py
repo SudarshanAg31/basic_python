@@ -1,4 +1,5 @@
-#private:it is use to private our information.we use this for make our method and attributes(__)
+#Private:(attributes & methods) are meant to be used only within the class
+#and not accessible from outside the class
 class account:
     def __init__(self,acc_num,acc_pass):
         self.acc_num=acc_num
