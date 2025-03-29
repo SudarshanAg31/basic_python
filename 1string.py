@@ -35,6 +35,10 @@ result=input("enter your name: ")
 #it make (n+1) parts
 #it start form left side
 
+#x=["i","love","you"]
+#x=" ".join(x)# it convert list to string 
+#print(x)
+
 #result=result.split(maxsplit=1)#only differnce is it start form left
 #it convert string into 2 part afer one space
 
