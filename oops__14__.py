@@ -13,10 +13,10 @@ class toyotacar(car):
         self.name=name
         super().__init__(type)
 c1=toyotacar("fortuner","petrol")
-c1.stop()
+c1.start()
 print(c1.name)
 print(c1.type)
 c1.stop()
 #NOTE:-by super() function we call type which is in different class 
-# and it is the part od __init__() function...
+# and it is the part of __init__() function...
 #if we not use super() function it show error 
