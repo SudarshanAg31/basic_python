@@ -7,7 +7,7 @@ marks={"sudarshan":43,
        "love":12}
 
 #it print the value if we pass the key
-print(marks["dhruv"])#if there is no key in our dictionary it show error
+#print(marks["dhruv"])#if there is no key in our dictionary it show error
 #------------or----------
 print(marks.get("dhruv"))#if there is no key in our dictionary it show NONE
 
