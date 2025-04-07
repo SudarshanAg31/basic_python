@@ -29,7 +29,7 @@ class MainWindow(QMainWindow):
        #label.setAlignment(Qt.AlignHCenter|Qt.AlignBottom)#Center & Bottom 
        #label.setAlignment(Qt.AlignHCenter|Qt.AlignVCenter)#center & center
         
-       #label.setAlignment(Qt.AlignCenter)#center & center
+        label.setAlignment(Qt.AlignCenter)#center & center
               
 app=QApplication(sys.argv)
 window=MainWindow()
